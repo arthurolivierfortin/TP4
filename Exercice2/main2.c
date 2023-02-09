@@ -18,7 +18,7 @@ void main(){
         if(phr[i] != '#'){
             if(isupper(phr[i])){
                 maj +=1;
-                printf("xxx \n");
+                //printf("xxx \n");
             }
             
             else{
@@ -26,10 +26,10 @@ void main(){
 
             }
         }
-        printf("yyy\n");
+        //printf("yyy\n");
 
         
-        printf("www\n");
+        //printf("www\n");
         i+=1;
     }
     printf("%s%d%s%d%s", "maj = ",maj, " min = ", min, "\n");
