@@ -1,0 +1,1 @@
+L'approximation est seulement bonne pour x = 2
